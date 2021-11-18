@@ -5,4 +5,4 @@ cat:
 publish:
 	git add .
 	git commit -m "Automatic update from Makefile -- tony"
-	gitc push
+	git push
