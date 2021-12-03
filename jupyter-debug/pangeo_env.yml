@@ -1,4 +1,4 @@
-name: ouch
+name: steffi
 channels:
   - conda-forge
 dependencies:
@@ -41,3 +41,4 @@ dependencies:
   - boto3
 #ODC
   - datacube
+  - odc-stac
